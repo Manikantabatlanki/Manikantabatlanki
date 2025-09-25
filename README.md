@@ -16,4 +16,4 @@
 
 ### 📫 Connect with Me
 - *LinkedIn:* [https://www.linkedin.com/in/manikanta-batlanki-617955362]
-- *Email:* onlygodsb2k.741@gmail.com
+- *Email:* onlygodsb2k.741@gmail.com 
