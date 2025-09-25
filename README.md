@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Manikanta 👋
 
-<!--
-**Manikantabatlanki/Manikantabatlanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Full Stack Developer* with a passion for building modern web applications.
 
-Here are some ideas to get you started:
+### 🔹 About Me
+- 💻 Skilled in *Python, **JavaScript, **SQL, **HTML, **CSS*
+- 🌱 Currently learning: *Javascript* 
+- 🎯 Goal: To become a *Full Stack Developer* and build scalable software
+- 🤝 Open to *collaborations* and *job opportunities*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- *Frontend:* HTML, CSS, JavaScript
+- *Backend:* Python, Django, Flask
+- *Database:* MySQL, PostgreSQL
+- *Tools:* Git, GitHub, VS Code
+
+### 📫 Connect with Me
+- *LinkedIn:* [https://www.linkedin.com/in/manikanta-batlanki-617955362]
+- *Email:* onlygodsb2k.741@gmail.com
