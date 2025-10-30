@@ -3,7 +3,7 @@
 🚀 *Full Stack Developer* with a passion for building modern web applications.
 
 ### 🔹 About Me
-- 💻 Skilled in *Python, **JavaScript, **SQL, **HTML, **CSS*,**javascript.
+- 💻 Skilled in **Python, **JavaScript, **SQL, **HTML, **CSS ,**Bootstrap
 - 🌱 Currently learning: *Django* 
 - 🎯 Goal: To become a *Full Stack Developer* and build scalable software.
 - 🤝 Open to *collaborations* and *job opportunities*
