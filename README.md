@@ -4,13 +4,13 @@
 
 ### 🔹 About Me
 - 💻 Skilled in **Python,**SQL,**HTML,**CSS,**JavaScript,**Bootstrap.
-- 🌱 Currently learning: *Django* 
+- 🌱 Currently learning: *React Js and REST Api* 
 - 🎯 Goal: To become a *Full Stack Developer* and build scalable software.
 - 🤝 Open to *collaborations* and *job opportunities*
 
 ### 🛠 Tech Stack
-- *Frontend:* HTML, CSS, JavaScript,Bootstrap
-- *Backend:* Python, Django, Flask
+- *Frontend:* HTML, CSS, JavaScript,Bootstrap,React Js
+- *Backend:* Python, Django, REST Api
 - *Database:* MySQL, PostgreSQL
 - *Tools:* Git, GitHub, VS Code
 
